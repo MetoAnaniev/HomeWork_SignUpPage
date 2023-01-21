@@ -1,0 +1,30 @@
+            HomeIcon
+
+XPath: //img[@id='homeIcon']
+
+CSS: <a>[id="homeIcon"]
+
+            NavBar toggler Icon
+
+XPath: //button/span[@class='navbar-toggler-icon']
+
+CSS: button > span
+
+            UserName
+
+
+
+	   Email
+
+
+
+           Password 
+
+
+
+	Confirm Password
+
+
+
+		SignIn Button
+
