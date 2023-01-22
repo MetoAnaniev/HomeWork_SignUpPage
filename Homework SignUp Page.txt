@@ -22,7 +22,7 @@ CSS:
 
 	   Email
 # locator 4
-XPath: //*[@id="defaultLoginFormUsername"]
+XPath: //*[@id="defaultLoginFormEmail"]
 CSS: 
 
            Password 
