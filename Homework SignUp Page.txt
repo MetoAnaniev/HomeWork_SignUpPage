@@ -17,13 +17,13 @@ CSS: button > span
 
 # locator 3
 XPath: //*[@id="defaultLoginFormUsername"]
-CSS: 
+CSS: #defaultLoginFormUsername
 
 
 	   Email
 # locator 4
 XPath: //*[@id="defaultLoginFormEmail"]
-CSS: 
+CSS: #defaultLoginFormEmail
 
            Password 
 # locator 5
