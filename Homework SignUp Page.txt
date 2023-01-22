@@ -23,12 +23,16 @@ CSS: button > span
 
 
            Password 
+# locator 5
+XPath: //*[@id="defaultRegisterFormPassword"]
 
+CSS: #defaultRegisterFormPassword
 
+	       Confirm Password
 
-	Confirm Password
+XPath: //*[@id="defaultRegisterPhonePassword"]
 
-
+CSS:  #defaultRegisterPhonePassword
 
 		SignIn Button
 
