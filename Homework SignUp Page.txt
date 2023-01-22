@@ -13,14 +13,17 @@ CSS: button > span
             UserName
 # locator 3
 <p _ngcontent-eyg-c4="" class="h4 mb-4">Sign in</p>
+
+
 # locator 3
-<input _ngcontent-eyg-c4="" class="form-control mb-4 ng-untouched ng-pristine ng-invalid" formcontrolname="usernameOrEmail" id="defaultLoginFormUsername" name="usernameOrEmail" placeholder="Username or email" type="text">
+XPath: //*[@id="defaultLoginFormUsername"]
+CSS: 
 
 
 	   Email
 # locator 4
-<input _ngcontent-eyg-c4="" class="form-control mb-4 ng-pristine ng-invalid ng-touched" formcontrolname="password" id="defaultLoginFormPassword" name="password" placeholder="Password" type="password">
-
+XPath: //*[@id="defaultLoginFormPassword"]
+CSS: 
 
            Password 
 
