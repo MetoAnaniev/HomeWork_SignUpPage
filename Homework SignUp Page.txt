@@ -2,7 +2,7 @@
 
 XPath: //img[@id='homeIcon']
 
-CSS: <a>[id="homeIcon"]
+CSS: #homeIcon
 
             NavBar toggler Icon
 
@@ -37,5 +37,9 @@ XPath: //*[@id="defaultRegisterPhonePassword"]
 
 CSS:  #defaultRegisterPhonePassword
 
-		SignIn Button
+              SignIn Button 
+
+Xpath: //button[@id="sign-in-button"]
+CSS: #sign-in-button
+		
 
